@@ -8,7 +8,7 @@ Assignment notebooks: Contains the code, comments and outputs for the challenges
 
 Lab 4 Data:
 
-Lab 5 Data & Part 7:
+Lab 5 Data & Part 7: (Challenge 2 is the seperate part 7 ipnyb)
 
 Lab 6 Data:
 
